@@ -1,0 +1,14 @@
+*{
+  padding: 10px;
+  margin: 10px;
+}
+
+h1{
+  background-color: gainsboro;
+  padding: 80px;
+  width: fit-content;
+}
+
+button{
+  border-radius: 10px;
+}
